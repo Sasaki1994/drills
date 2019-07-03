@@ -2,5 +2,5 @@
 
 list = ["ペン", "えんぴつ", "消しゴム"]
 list.each do |element|
-    puts(element)
+    puts element
 end
