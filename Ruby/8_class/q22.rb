@@ -6,7 +6,7 @@ class Human
     end
 
     def introduction
-        puts "名前は#{@name}です。趣味は#{@hobby}です。"
+        puts "名前は#{@name}です。趣味は#{@hobby}です"
     end
     
 end
